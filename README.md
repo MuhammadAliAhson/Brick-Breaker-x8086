@@ -1,0 +1,2 @@
+# Brick_Breaker_x8086
+ Hello Everyone!  I have made the Brick Bracker Game in Assembly Language (x8086). There are 3 levels in the Game. After passing each level, the difficulty of the Game in the next level increases like Speed and the size of the bar.   I have added sound to this game as well and the special bricks as well to make this game looks more interesting.  After hitting the brick your score counts and leads you to the next level. 
